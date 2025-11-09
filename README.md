@@ -8,7 +8,7 @@ weather app using different python framework
 
 Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It's free and open source.
 
-<a href="https://github.com/itsvinayak/weather-app/tree/master/weather-django" >project link </a>
+<a href="(https://github.com/DipakLande/weather-app/tree/2cb3c4ebc1f1b3325d87687a0a139ff6a7b074dd/weather-app/weather-django)" >project link </a>
 
 >flask
 
@@ -51,4 +51,5 @@ Note: each application contains its own requirements
 
 
 <strong>made by vinayak with 💕 and 🍺</strong>
+
 
