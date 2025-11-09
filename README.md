@@ -1,8 +1,8 @@
 # learn python frameworks by making weather app
 weather app using different python framework
 
-![](https://img.shields.io/github/repo-size/itsvinayak/weather-app.svg?label=Repo%20size&style=flat-square)&nbsp;
-[![Made with python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://github.com/itsvinayak/weather-app)
+![]([weather-app](https://github.com/DipakLande/weather-app/tree/2cb3c4ebc1f1b3325d87687a0a139ff6a7b074dd/weather-app))&nbsp;
+[![Made with python](http://ForTheBadge.com/images/badges/made-with-python.svg)]([https://github.com/itsvinayak/weather-app](https://github.com/DipakLande))
 
 > Django
 
@@ -51,3 +51,4 @@ Note: each application contains its own requirements
 
 
 <strong>made by vinayak with 💕 and 🍺</strong>
+
