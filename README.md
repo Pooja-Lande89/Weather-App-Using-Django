@@ -23,7 +23,7 @@ VS Code → File → Open Folder…
 
 Option B: If using Git clone
 
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/Pooja-Lande89/Weather-App-Using-Django.git
 
 cd repository-name code .
 
